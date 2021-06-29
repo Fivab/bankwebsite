@@ -1,0 +1,31 @@
+body{
+    background-color:lightcyan;
+}
+
+img{
+    width: 500px;
+}
+
+.person_name, .person_para, .left_mini{
+    text-align: left;
+}
+
+.person_name{
+    font-size: 30px;
+}
+
+.left_mini{
+    font-size: 20px;
+}
+
+.person_para{
+    font-size: 20px;
+}
+
+#h1{
+    font-size: 50px;
+}
+
+#error{
+    color: crimson;
+}
